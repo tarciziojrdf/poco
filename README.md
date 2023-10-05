@@ -1,12 +1,5 @@
-# poco
-Pinnacle Opening/Closing Odds
-Market 1x2
+# POCO - Pinnacle Opening/Closing Odds
+### 1x2 Market
 
-   Designed by
-   ___      _     _           _                 
-  / _ \  __| | __| |_ __ ___ (_)_ __   ___ _ __ 
- | | | |/ _` |/ _` | '_ ` _ \| | '_ \ / _ \ '__|
- | |_| | (_| | (_| | | | | | | | | | |  __/ |   
-  \___/ \__,_|\__,_|_| |_| |_|_|_| |_|\___|_|   
-                                                
-
+                                             
+![OddMiner](https://github.com/tarciziojrdf/poco/assets/39638692/fbd501bf-6ce7-4653-a650-66712c8da338)
